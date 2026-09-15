@@ -1,10 +1,8 @@
-#EduTrack AI
+# EduTrack AI - Plataforma educacional com recursos de Inteligência Artificial
 
-Projeto da disciplina Innovation Lab - Faculdade Impacta
+Projeto acadêmico desenvolvido em equipe para a disciplina Innovation Lab, com foco no desenvolvimento de uma solução educacional utilizando Inteligência Artificial, integração com backend e banco de dados.
 
-Aluno: Rafael César Gonçalves
-Turma: ADS-2A MANHÃ
-Ano: 2026
+Tecnologias:
 
 o Git & GitHub
 o VS Code
